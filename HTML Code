@@ -4,6 +4,11 @@
 		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 		<title></title>
 	</head>
+	
+	<head>
+      		<script type="text/javascript" src="filename.js" ></script>
+   	</head>
+   
 	<body>
 		<div id="header">
 			<p id="name">Uvash Seeraj</p>
