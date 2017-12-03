@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">Uvash Seeraj</p>
+			<a href="uvashseeraj@gmail.com"><p id="email">uvashseeraj@gmail.com</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>Objective</h4>
+			<p>I am a soon to be College Grad, looking for a Full-time position to later advance into my Computer Science career. .</p>
+			<h4>Experience</h4>
+			<p>Amazon - Fresh Associate (2017 - Present)</p>
+			<ul>
+				<li>Manage and or pick customers Items.</li>
+				<li>Manage a small team to reach company goals.</li>
+			</ul>
+			<p>Save Latin America - Website Developer (2017 - Present)</p>
+			<ul>
+				<li>Use Bluehost.com to edit website.</li>
+				<li>Develope the website/maintain it.</li>
+			</ul>
+			<h4>Skills</h4>
+			<p>Languages: C#, JavaScript, Python, HTML</p>
+			<p>Computer Literate</p>
+		
+			</ul>
+		</div>
+		<div id="footer">
+			<p>109 Seaview Ave, Jersey City, NJ 07305 | Tel: (201) 598-6298</p>
+		</div>
+	</body>
+</html>
