@@ -1,45 +1,22 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
-		<title></title>
-	</head>
-	
-	<head>
-      		<script type="text/javascript" src="filename.js" ></script>
-   	</head>
-   
-	<body>
-		<div id="header">
-			<p id="name">Uvash Seeraj</p>
-			<a href="uvashseeraj@gmail.com"><p id="email">uvashseeraj@gmail.com</p></a>
-		</div>
-		<div class="left"></div>
-		<div class="right">
-			<h4>Objective</h4>
-			<p>I am a soon to be <a href="https://www.njcu.edu/">College</a> Grad, looking for a Full-time position to later advance into my Computer Science career. .</p>
-			
-			<h4>Experience</h4>
-			<p>Amazon - Fresh Associate (2017 - Present)</p> 
-			<a href="https://www.google.com/search?rlz=1C1CHBF_enUS772US772&ei=hpstWsv1HKOiggeGwr6QBw&q=amazon+ewr6&oq=amazon&gs_l=psy-ab.3.1.35i39k1j0i67k1l2j0i131k1j0i67k1j0i131i20i264k1j0i131k1l3j0i67k1.8168.8168.0.10987.1.1.0.0.0.0.56.56.1.1.0....0...1c.1.64.psy-ab..0.1.56....0.8mz5gy8qM8I">Link</a>
-			<ul>
-				<li>Manage and or pick customers Items.</li>
-				<li>Manage a small team to reach company goals.</li>
-			</ul>
-			<p>Save Latin America - Website Developer (2017 - Present)</p>
-			<a href="http://www.savelatinamerica.org/">Link</a>
-			<ul>
-				<li>Use Bluehost.com to edit website.</li>
-				<li>Develope the website/maintain it.</li>
-			</ul>
-			<h4>Skills</h4>
-			<p>Languages: C#, JavaScript, Python, HTML</p>
-			<p>Computer Literate</p>
-		
-			</ul>
-		</div>
-		<div id="footer">
-			<p>109 Seaview Ave, Jersey City, NJ 07305 | Tel: (201) 598-6298</p>
-		</div>
-	</body>
-</html>
+<h2><strong>Uvash Seeraj</strong></h2>
+<p><a href="mailto:uvashseeraj@gmail.com">uvashseeraj@gmail.com</a>&nbsp;|&nbsp;109 Seaview Ave, Jersey City, NJ 07305 | Tel: (201) 598-6298</p>
+<div class="right">
+<h4>Objective</h4>
+<p>I am a soon to be <a href="https://www.njcu.edu/">College</a> Grad, looking for a Full-time position to later advance into my Computer Science career. .</p>
+<h4>Experience</h4>
+<p><em>Amazon - Fresh Associate (2017 - Present)</em></p>
+<a href="https://www.google.com/search?rlz=1C1CHBF_enUS772US772&amp;ei=hpstWsv1HKOiggeGwr6QBw&amp;q=amazon+ewr6&amp;oq=amazon&amp;gs_l=psy-ab.3.1.35i39k1j0i67k1l2j0i131k1j0i67k1j0i131i20i264k1j0i131k1l3j0i67k1.8168.8168.0.10987.1.1.0.0.0.0.56.56.1.1.0....0...1c.1.64.psy-ab..0.1.56....0.8mz5gy8qM8I">Link</a>
+<ul>
+<li>Manage and or pick customers Items.</li>
+<li>Manage a small team to reach company goals.</li>
+</ul>
+<p><em>Save Latin America - Website Developer (2017 - Present)</em></p>
+<a href="http://www.savelatinamerica.org/">Link</a>
+<ul>
+<li>Use Bluehost.com to edit website.</li>
+<li>Develope the website/maintain it.</li>
+</ul>
+<h4>Skills</h4>
+<p>Languages: C#, JavaScript, Python, HTML</p>
+<p>Computer Literate</p>
+</div>
