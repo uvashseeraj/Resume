@@ -1,0 +1,82 @@
+<p style="text-align: center;"><strong>UVASH SEERAJ</strong></p>
+<p style="text-align: center;">109 Seaview Ave, Jersey City, NJ, 07305 | Cell: 201-598-6298 | uvashseeraj@gmail.com</p>
+<p>&nbsp;</p>
+<p><strong>PROFILE </strong></p>
+<p>Recent college grad, looking for a Full-Time Career to express passion and ambition for Computer Science, Gaming and Technology. Willing to push oneself to master new things and refine existing knowledge.</p>
+<p>&nbsp;</p>
+<p><strong>EDUCATION</strong></p>
+<p><strong>Bachelor of Arts and Science, Computer Science </strong>2017</p>
+<p><strong>New Jersey City University</strong> -- Jersey City, NJ</p>
+
+<ul>
+<li>Focused but not limited in Object-Oriented programming languages such as Java, Python, MySQL, JavaScript and more.</li>
+</ul>
+
+
+<p><strong>Creative Arts and Technology, Game Design </strong>2014</p>
+<p><strong>Bloomfield College</strong> -- Bloomfield, NJ</p>
+
+<ul>
+<li>Focus in the principals, concepts, methodologies and skills of Game Design.</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>EXPERIENCE</strong></p>
+
+<button onclick="myFunction()" data-text-swap="Hide">Show</button>
+
+<div id="BC">
+<p><strong>Fulfillment Associate</strong> Aug 2017 -- Present</p>
+<p><strong>Amazon Fresh </strong>-- Avenel NJ</p>
+<ul>
+<li>Part of the inbound and outbound team for amazon fresh orders.</li>
+<li>Manage customers&rsquo; orders to optimize efficient strategies.</li>
+</ul>
+<p><strong>Web Developer</strong> Aug 2017 -- Present</p>
+<p><strong>Save Latin America Inc.</strong> -- Union City, NJ</p>
+<ul>
+<li>Update and maintain <a href="http://www.savelatinamerica.org/">www.savelatinamerica.org</a></li>
+<li>Design layouts and update visual graphics on the site.</li>
+</ul>
+<p><strong>Computer Specialist </strong>Aug 2015 &ndash; June 2017</p>
+<p><strong>Market Source</strong> -- Union, NJ</p>
+<ul>
+<li>Train Best Buy, Staples, and Costco employees about HP products.</li>
+<li>Sell, maintain, and manage all HP products and events in affiliated stores.</li>
+</ul>
+<p><strong>Computer Technology Manager Assistant </strong>Aug 2013 - Sept 2014</p>
+<p><strong>Bloomfield College</strong> -- Bloomfield, NJ</p>
+<ul>
+<li>Teach students and staff on how to use Blackboard, Photoshop, Microsoft Office and many more.</li>
+<li>Create event posters and flyers for Events within Bloomfield College using Photoshop.</li>
+</ul>
+
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("BC");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+
+
+<p><strong>SKILLS</strong></p>
+<ul>
+<li>Fluent in English</li>
+<li>Computer Literate</li>
+<li>Adobe Suite, MS Office, and more.</li>
+<li>Strong Emotional Control</li>
+<li>Well organized.</li>
+<li>Former Streamer &ndash; OBS knowledge</li>
+<li>Strong Multi-tasking</li>
+<li>Manual Dexterity</li>
+<li>Strong Mathematical Understanding</li>
+<li>Reliable Team Player and Leader</li>
+</ul>
+
+<img src="https://www.inspirationde.com/wp-content/uploads/2016/08/logo-room-on-instagram-gaming-logo-design-by-skiraila-1472448012g8kn4-770x770.jpg" alt="Logo">
